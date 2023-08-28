@@ -1,11 +1,12 @@
 <h1 align="center">Hi , I'm Lazzzer</h1>
 <h3 align="center">I am entrepreneur and a freelance full stack developer</h3>
-
+<br>
 - 🌱 I’m currently learning **front and back end development.**
 
 - 💬 Ask me about **anything you think I could help with.**
 
 - 📫 How to reach me **baselinestudiosofficial@gmail.com**
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
