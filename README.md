@@ -1,7 +1,8 @@
 <h1 align="center">Hi , I'm Lazzzer</h1>
 <h3 align="center">I am entrepreneur and a freelance full stack developer</h3>
 <br>
-- 🌱 I’m currently learning frontend and backend development.
+
+- 🌱 I’m currently learning **frontend and backend development.**
 
 - 💬 Ask me about **anything you think I could help with.**
 
