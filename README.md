@@ -4,11 +4,11 @@
 <br>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/origin/f1/f1c839d0b1fd57dd8ee99936bfe7ecc8_w200.gif">
 
-- ♚ I’m currently building **managment interfaces**
+- ♚ Currently building **Managment-Interfaces**
 
-- ♛ My business: **https://www.instagram.com/baselinestudiosofficial**
+- ♛ Business: **https://www.instagram.com/baselinestudiosofficial**
 
-- ♜ If you need a website contact me on **baselinestudiosofficial@gmail.com**
+- ♜ Contact **baselinestudiosofficial@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
