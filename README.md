@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/lazar-knezevic-516a6b2a6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lazar-knezevic-516a6b2a6/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/baselinestudiosofficial/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="baselinestudiosoffical" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/lazzzer00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lazzzer00" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/RealLazar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lazzzer00" height="30" width="40" /></a>
 <a href="https://discord.gg/lazzzer." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="lazzzer." height="30" width="40" /></a>
 </p>
 
