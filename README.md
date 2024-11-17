@@ -3,7 +3,7 @@
 <br>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/origin/f1/f1c839d0b1fd57dd8ee99936bfe7ecc8_w200.gif">
 
-- ♚ Currently building **Quantum Computers**
+- ♚ Currently learning **"Advanced Algorithms & Data Structures"**
 
 - ♜ Contact **lknezevicc1@gmail.com**
 
